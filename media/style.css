@@ -14,8 +14,8 @@ body {
 }
 
 .smash-image {
-  width: 160px;
-  height: 160px;
+  width: 320px;
+  height: 320px;
   cursor: pointer;
   user-select: none;
   transition: transform 0.08s ease-out;
